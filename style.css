@@ -5,6 +5,7 @@ body{
     background-color: #eee;
 }
 
+
 .newspaper-container{
     background-color: white;
     box-shadow: #ddd;
@@ -57,3 +58,20 @@ h5{
 p{
     text-align: justify;
 }
+
+.more-articles {
+    display: flex;
+    text-align: center;
+}
+
+.more-articles img{
+    width: 90%;
+}
+
+.more-articles p{
+    display: inline-block;
+    width: 90%;
+    margin: 0 15px;
+}
+
+/* save changes*/
